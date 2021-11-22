@@ -1,0 +1,6 @@
+msgid "msg"
+msgstr "EN  CakePHP Internationalization example."
+
+
+msgid "msg2"
+msgstr "gfdgdfgfdgdfgdfgdf."

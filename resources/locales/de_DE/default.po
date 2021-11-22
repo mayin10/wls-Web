@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wls\n"
+"POT-Creation-Date: 2020-12-09 23:16+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: wls\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/Controller/ContactsController.php:23
+#: src/Controller/ContactsController.php:70
+msgid "msg"
+msgstr "DDDEEE  CakePHP Internationalization example."
+
+#: src/Controller/ContactsController.php:25
+msgid "msg1"
+msgstr ""
+
+#: src/Controller/ContactsController.php:27
+msgid "test02"
+msgstr ""
+
+#: src/Controller/ContactsController.php:29
+msgid "Das ist ein Test"
+msgstr ""
+
+#: src/Controller/ContactsController.php:42
+msgid "您收到一个新消息"
+msgstr "Sie haben eine neue Nachricht erhalten"
+
+#: src/Controller/ContactsController.php:134
+msgid "The contact has been saved."
+msgstr ""
+
+#: src/Controller/ContactsController.php:138
+msgid "The contact could not be saved. Please, try again."
+msgstr ""
+
+#: src/Controller/ContactsController.php:155
+msgid "The contact has been deleted."
+msgstr ""
+
+#: src/Controller/ContactsController.php:157
+msgid "The contact could not be deleted. Please, try again."
+msgstr ""
+
+#: templates/Contacts/add.php:5
+msgid "一站托付,"
+msgstr "One-Stop-Vertrauen,"
+
+#: templates/Contacts/add.php:6
+msgid "快人一步."
+msgstr "Einen Schritt voraus."
+
+#: templates/Contacts/add.php:7
+msgid ""
+"速度就是金钱，时间就是效率，WLS帮您创造精彩， 让您省心更放心，效率增效益。"
+msgstr ""
+"Geschwindigkeit ist Geld und Zeit ist Effizienz. WLS hilft Ihnen dabei, "
+"Spannung zu erzeugen, damit Sie sich wohler fühlen und die Effizienz "
+"steigern können."
+
+#: templates/Contacts/add.php:11
+msgid "WLS Phoenix海外仓,"
+msgstr "WLS Phoenix  Lagerservice"
+
+#: templates/Contacts/add.php:12
+msgid "全球若比邻."
+msgstr ""
+
+#: templates/Contacts/add.php:13
+msgid ""
+"地球村时代，世界就在每一个人的面前，有了WLS Phoenix让您即使足不出户， 世界"
+"也“淘”不出您的手心。"
+msgstr ""
+"Im Zeitalter des globalen Dorfes steht die Welt vor allen Menschen. Mit WLS "
+"Phoenix wird die Welt nicht aus Ihrer Handfläche \"ausgewaschen\", selbst "
+"wenn Sie zu Hause bleiben."
+
+#: templates/Contacts/add.php:17
+msgid "仓储新理念,"
+msgstr "Neues Konzept der Lagerhaltung,"
+
+#: templates/Contacts/add.php:18
+msgid "完美无极限."
+msgstr "Perfekt ohne Grenzen."
+
+#: templates/Contacts/add.php:19
+msgid ""
+"WLS Phoenix提供不仅仅是仓库，更是完善的服务，速度是创新的，服务是温馨的，陪护"
+"更是贴心的。"
+msgstr ""
+"WLS Phoenix bietet nicht nur ein Lager, sondern auch einen kompletten "
+"Service. Die Geschwindigkeit ist innovativ, der Service ist warm und die "
+"Begleitung ist noch intimer."
+
+#: templates/Contacts/add.php:22 templates/Contacts/add.php:332
+#: templates/layout/default.php:67
+msgid "联系我们"
+msgstr "Kontakt"
+
+
+msgid "进入海外仓"
+msgstr "Login"
+#: templates/Contacts/add.php:23
+msgid "了解更多"
+msgstr "mehr"
+
+#: templates/Contacts/add.php:58
+msgid "我们的优势"
+msgstr "Unser Vorteil"
+
+#: templates/Contacts/add.php:59
+msgid "放心托付，精诚守护"
+msgstr "Vertrauen Sie mit Vertrauen und schützen Sie aufrichtig"
+
+#: templates/Contacts/add.php:60
+msgid ""
+"WLS Phoenix专业的团队，有丰富的行业经验，向客户提供安全、卓有成效的商业机会。"
+"我们的各项服务皆以客户为中心，\n"
+"涵盖您拓展欧洲市场所需要的各个方面。无论客户大小，我们都珍惜您的每一次委托。"
+msgstr ""
+"Das professionelle Team von WLS Phoenix mit umfassender Branchenerfahrung "
+"bietet Kunden sichere und fruchtbare Geschäftsmöglichkeiten. Unsere "
+"verschiedenen Dienstleistungen sind kundenorientiert,\n"
+"Decken Sie alle Aspekte ab, die Sie zur Erweiterung des europäischen Marktes "
+"benötigen. Unabhängig von der Größe des Kunden schätzen wir jede Provision, "
+"die Sie machen."
+
+#: templates/Contacts/add.php:65
+msgid "专业"
+msgstr "Professional"
+
+#: templates/Contacts/add.php:66
+msgid ""
+"WLS Phoenix是跨境电商的物流专家，服务是透明稳定的，产品是稳定全面的，价格更是"
+"具有竞争力的，获取广大跨境电商卖家的认可。"
+msgstr ""
+
+#: templates/Contacts/add.php:69
+msgid "创新"
+msgstr "Innovation"
+
+#: templates/Contacts/add.php:70
+msgid ""
+"WLS Phoenix有不断创新的服务追求，让服务精益求精，追求完善和创新的服务理念，适"
+"应万变市场，积极拓展创新，以满足市场各项需求。"
+msgstr ""
+
+#: templates/Contacts/add.php:73
+msgid "诚信"
+msgstr "Integrität"
+
+#: templates/Contacts/add.php:74
+msgid ""
+"WLS Phoenix是值得信赖的长期合作伙伴。公司以诚信为企业之根本，以创新为企业之灵"
+"魂，以共赢为企业之追求。愿与大家一起携手乘风破浪。"
+msgstr ""
+
+#: templates/Contacts/add.php:108
+msgid "了解更多..."
+msgstr "Noch mehr..."
+
+#: templates/Contacts/add.php:120 templates/layout/default.php:65
+msgid "关于我们"
+msgstr "Über uns"
+
+#: templates/Contacts/add.php:121
+msgid "效率成就品牌，诚信铸就未来"
+msgstr ""
+
+#: templates/Contacts/add.php:122
+msgid "精益求精，不断完善"
+msgstr ""
+
+#: templates/Contacts/add.php:123
+msgid ""
+"WLS Phoenix 位于德国北威州Ratingen, 当地人口密集， 经济繁荣，消费能力强，地理"
+"位置优秀,海陆空运输都非常便利."
+msgstr ""
+
+#: templates/Contacts/add.php:125
+msgid ""
+"公司采用全新的业务管理方案并依托先进的IT系统支持，通过互联网技术运用，为客户"
+"提供各种国际物流解决方案与供应链相关的增值服务。\n"
+"随着电子商务市场的不断发展，公司致力于国际速递与跨境电子商务物流服务，力争成"
+"为中国专业的电子商务物流平台供应商。"
+msgstr ""
+
+#: templates/Contacts/add.php:128
+msgid ""
+"WLS Phoenix自成立以来，以持续提升运转效率和客户体验为宗旨，专注于跨境电商海外"
+"仓储解决方案，注重供应链整合创新，不断优化操作流程，降低物流成本。"
+msgstr ""
+
+#: templates/Contacts/add.php:233
+msgid "我们的服务"
+msgstr "Unser Service"
+
+#: templates/Contacts/add.php:234
+msgid "没有最好，只有更好"
+msgstr "Immer Verbesserung"
+
+#: templates/Contacts/add.php:240
+msgid "一站式的海外仓仓储服务"
+msgstr ""
+
+#: templates/Contacts/add.php:241
+msgid "一件精准代发全程可控"
+msgstr ""
+
+#: templates/Contacts/add.php:242
+msgid "换标贴标及包装定制"
+msgstr ""
+
+#: templates/Contacts/add.php:243
+msgid "FBA退货及转运服务"
+msgstr ""
+
+#: templates/Contacts/add.php:244
+msgid "售后退换货处理服务"
+msgstr ""
+
+#: templates/Contacts/add.php:245
+msgid "仓库专区服务支持"
+msgstr ""
+
+#: templates/Contacts/add.php:248
+msgid "优质的欧盟授权代表"
+msgstr ""
+
+#: templates/Contacts/add.php:249
+msgid "未来之道， 携手共赢"
+msgstr ""
+
+#: templates/Contacts/add.php:254
+msgid "提供全方位的辅导和技术支持"
+msgstr ""
+
+#: templates/Contacts/add.php:255
+msgid "提供欧盟成员国的法规和销售信息"
+msgstr ""
+
+#: templates/Contacts/add.php:256
+msgid "充当对欧盟主管当局的法律实体"
+msgstr ""
+
+#: templates/Contacts/add.php:257
+msgid "提供后续的产品注册等增值服务"
+msgstr ""
+
+#: templates/Contacts/add.php:258
+msgid "处理各类突发事故、不良事件以及召回等工作"
+msgstr ""
+
+#: templates/Contacts/add.php:333
+msgid "随时随地都欢迎"
+msgstr "Willkommen jederzeit und überall"
+
+#: templates/Contacts/add.php:334 templates/layout/default.php:109
+msgid "地址"
+msgstr "Adresse"
+
+#: templates/Contacts/add.php:335
+msgid "电话号码"
+msgstr "Telefonnummer"
+
+#: templates/Contacts/add.php:336
+msgid "邮箱地址"
+msgstr "Email"
+
+#: templates/Contacts/add.php:337
+msgid "关注我们"
+msgstr "Folge uns"
+
+#: templates/Contacts/add.php:475
+msgid "您的消息已经成功被发送。"
+msgstr "Ihre Nachricht wurde erfolgreich verschickt."
+
+#: templates/Contacts/add.php:484
+msgid "消息已发送失败"
+msgstr "Die Nachricht konnte nicht gesendet werden"
+
+#: templates/Contacts/edit.php:10 templates/Contacts/index.php:16
+#: templates/Contacts/view.php:10
+msgid "Actions"
+msgstr ""
+
+#: templates/Contacts/edit.php:12 templates/Contacts/index.php:30
+msgid "Delete"
+msgstr ""
+
+#: templates/Contacts/edit.php:14 templates/Contacts/index.php:30
+#: templates/Contacts/view.php:12
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: templates/Contacts/edit.php:16 templates/Contacts/view.php:13
+msgid "List Contacts"
+msgstr ""
+
+#: templates/Contacts/edit.php:23 templates/Contacts/view.php:11
+msgid "Edit Contact"
+msgstr ""
+
+#: templates/Contacts/edit.php:30
+msgid "Submit"
+msgstr ""
+
+#: templates/Contacts/index.php:5 templates/Contacts/view.php:14
+msgid "New Contact"
+msgstr ""
+
+#: templates/Contacts/index.php:6
+msgid "Contacts"
+msgstr ""
+
+#: templates/Contacts/index.php:28
+#: vendor/cakephp/cakephp/src/View/Helper/PaginatorHelper.php:1268
+msgid "View"
+msgstr ""
+
+#: templates/Contacts/index.php:29
+msgid "Edit"
+msgstr ""
+
+#: templates/Contacts/index.php:39
+msgid "first"
+msgstr ""
+
+#: templates/Contacts/index.php:40
+msgid "previous"
+msgstr ""
+
+#: templates/Contacts/index.php:42
+msgid "next"
+msgstr ""
+
+#: templates/Contacts/index.php:43
+msgid "last"
+msgstr ""
+
+#: templates/Contacts/index.php:45
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+
+#: templates/Contacts/view.php:12
+msgid "Delete Contact"
+msgstr ""
+
+#: templates/Contacts/view.php:22
+msgid "Email"
+msgstr ""
+
+#: templates/Contacts/view.php:26
+msgid "Subject"
+msgstr ""
+
+#: templates/Contacts/view.php:30
+msgid "Id"
+msgstr ""
+
+#: templates/Contacts/view.php:34
+msgid "Created"
+msgstr ""
+
+#: templates/Contacts/view.php:38
+msgid "Modified"
+msgstr ""
+
+#: templates/Contacts/view.php:43
+msgid "Message"
+msgstr ""
+
+#: templates/email/html/default.php:11
+msgid "发件人姓名"
+msgstr "Absender"
+
+#: templates/email/html/default.php:15
+msgid "发件人Email"
+msgstr "Email"
+
+#: templates/email/html/default.php:19
+msgid "主题"
+msgstr "Home"
+
+#: templates/email/html/default.php:24
+msgid "内容"
+msgstr "Inhalt"
+
+#: templates/layout/default.php:17
+msgid "WLS Phoenix"
+msgstr ""
+
+#: templates/layout/default.php:63
+msgid "主页"
+msgstr "Home"
+
+#: templates/layout/default.php:64
+msgid "企业特点"
+msgstr "Merkmale"
+
+#: templates/layout/default.php:66
+msgid "服务内容"
+msgstr "Service"
+
+#: templates/layout/default.php:110
+msgid "其他链接"
+msgstr "Andere Links"
+
+#: templates/layout/default.php:112
+msgid "数据保护"
+msgstr "Datenschutz"
+
+#: templates/layout/default.php:117 templates/layout/default.php:144
+msgid "扫一扫"
+msgstr "Scannen "
+
+#: templates/layout/error.php:38
+msgid "Back"
+msgstr "zurück"
+
+#~ msgid "登录"
+#~ msgstr "login"
+
+#~ msgid "msg2"
+#~ msgstr "ich muss sehr fleissig lernen."
